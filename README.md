@@ -1,13 +1,12 @@
-# Hi, I'm Rizki 👋
+# Hi, I'm MedyComp 👋
 
-### Business & Technology Enthusiast
+### Business • Technology • Gaming
 
-I'm interested in business development, digital innovation, and technology.
+Welcome to my GitHub profile!
 
-- 💼 Exploring entrepreneurship and business opportunities
-- ⚡ Learning IoT, ESP32, and embedded systems
-- 💻 Developing technology-based projects
-- 🚀 Turning ideas into practical solutions
+- 🔧 Computer & Electronics Services
+- 🎮 Gaming Services & Console Solutions
+- 🎸 Music & Band
+- 💻 Exploring IoT and Digital Innovation
 
-### Interests
-`Business` · `Entrepreneurship` · `IoT` · `Technology` · `Innovation`
+**Technology, Creativity & Entertainment.**
